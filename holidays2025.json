@@ -1,0 +1,22 @@
+[
+  { "date": "2024-12-25", "holiday_name": "Christmas 2024" },
+  { "date": "2025-01-01", "holiday_name": "New Year" },
+  { "date": "2025-01-29", "holiday_name": "CNY Day 1" },
+  { "date": "2025-01-30", "holiday_name": "CNY Day 2" },
+  { "date": "2025-02-11", "holiday_name": "Thaipusam" },
+  { "date": "2025-03-18", "holiday_name": "Nuzul Al-Quran" },
+  { "date": "2025-03-31", "holiday_name": "Hari Raya Day 1" },
+  { "date": "2025-04-01", "holiday_name": "Hari Raya Day 2" },
+  { "date": "2025-05-01", "holiday_name": "Labour Day" },
+  { "date": "2025-05-12", "holiday_name": "Wesak Day" },
+  { "date": "2025-06-02", "holiday_name": "Agong Birthday" },
+  { "date": "2025-06-07", "holiday_name": "Hari Raya Quran" },
+  { "date": "2025-06-27", "holiday_name": "Awal Muharam" },
+  { "date": "2025-08-31", "holiday_name": "National Day" },
+  { "date": "2025-09-01", "holiday_name": "National Day Replacement" },
+  { "date": "2025-09-05", "holiday_name": "Nabi Muhammad Birthday" },
+  { "date": "2025-09-16", "holiday_name": "Malaysia Day" },
+  { "date": "2025-10-20", "holiday_name": "Deepavali" },
+  { "date": "2025-12-11", "holiday_name": "Selangor Sultan Birthday" },
+  { "date": "2025-12-25", "holiday_name": "Christmas" }
+]
