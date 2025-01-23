@@ -42,7 +42,7 @@ def calculate_project_end_date(start_date, working_days):
     Calculate the project end date based on the start date and the number of working days.
     """
     end_date = start_date
-    days_counted = 0
+    days_counted = 1
 
     while days_counted < working_days:
         end_date += datetime.timedelta(days=1)
